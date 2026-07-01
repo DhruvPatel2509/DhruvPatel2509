@@ -47,9 +47,9 @@ I'm a passionate **Full-Stack MERN Developer** who enjoys building scalable and 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dhruv-patel-1b0450209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dhruv-p-1b0450209/)
 
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:dhruvpatelpatel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:www.dhruvpatelpatel@gmail.com)
 
 ---
 

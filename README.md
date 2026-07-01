@@ -7,13 +7,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack MERN Developer** with a strong foundation in building scalable, user-friendly web applications. I specialize in creating robust solutions using modern JavaScript frameworks and cloud technologies. I'm constantly exploring new technologies and best practices in web development.
+## About Me
 
-- 🔭 Currently working on: **[Job Portal](https://github.com/DhruvPatel2509/Job_portal)**
-- 🌱 Learning: **Advanced Node.js & System Design**
-- 💡 Passionate about: Full-Stack Development, REST APIs, Microservices & Backend Architecture
-- 🎯 Goal: Build impactful applications that solve real-world problems
-- ⚡ Fun fact: I love debugging and optimizing code for better performance
+I'm an **MCA student** and an aspiring **Full-Stack  Developer** who enjoys building practical web applications and solving programming challenges. I like learning new technologies through hands-on projects and continuously improving my development skills.
+
+* 🌱 Currently learning: **AI & Machine Learning**
+* 💻 Working with: **JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Python, HTML, CSS, and DBMS**
+* 🚀 Interested in: **Full-Stack Web Development, Backend Development, REST APIs, and Database Management**
+* 🎯 Career Goal: **To become a Software Engineer and contribute to building reliable, user-focused applications**
+* ⚡ Fun fact: **I enjoy debugging code, exploring new technologies, and turning ideas into working projects.**
+
 
 ---
 
@@ -47,15 +50,7 @@ I'm a passionate **Full-Stack MERN Developer** with a strong foundation in build
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvPatel2509&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvPatel2509&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -64,7 +59,7 @@ I'm a passionate **Full-Stack MERN Developer** with a strong foundation in build
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-p-1b0450209/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpatelpatel@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvPatel2509)
 
 </div>
